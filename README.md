@@ -5,10 +5,15 @@ API SPEcs
 1. Login Admin
 
 Request
+
 Method : Post
+
 End Point :/login
+
 Header:
+    
     Content-Type:application/json
+    
     Body:
 {
     ‘email’ : “string”
