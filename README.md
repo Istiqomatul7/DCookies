@@ -8,15 +8,15 @@ Request
 Method : Post
 End Point :/login
 Header:
-	Content-Type:application/json
-Body:
+    Content-Type:application/json
+    Body:
 {
-	‘email’ : “string”
-	‘password’:”string”
-}
+    ‘email’ : “string”
+    ‘password’:”string”
+    }
 Response
 {
-	‘message’: “Login berhasil”
+    ‘message’: “Login berhasil”
 }
 
 2. Get all
